@@ -1,0 +1,6 @@
+{
+  "name": "WHO ASRS-5 Psychometric Screening",
+  "description": "Objective psychometric administrator for the WHO Adult ADHD Self-Report Scale for DSM-5 (ASRS-5).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
